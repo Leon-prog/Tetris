@@ -1,0 +1,12 @@
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\obj\Debug\Tetris.mainWindow.resources
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\obj\Debug\Tetris.About.resources
+C:\Users\админ\Desktop\лабы\Tetris\Tetris\obj\Debug\Tetris.TableScoreView.resources
